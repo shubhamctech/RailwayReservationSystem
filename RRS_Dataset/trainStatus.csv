@@ -1,0 +1,5 @@
+TrainDay,TrainName,PremiumSeatsAvailable,GenSeatsAvailable,PremiumSeatsOccupied,GenSeatsOccupied
+Friday,Orient Express,10,10,0,0
+Sunday,Flying Scottsman,8,0,2,4
+Tuesday,Golden Arrow,0,1,3,4
+Saturday,Golden Chariot,0,0,3,3

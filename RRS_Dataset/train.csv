@@ -1,0 +1,6 @@
+Train Number,Train Name,Premium Fair,General Fair,Source Station,Destination Station,Available on Weekdays
+1,Orient Express,800,600,Paris,Istanbul,"Monday, Tuesday, Wednesday, Thursday, Friday"
+2,Flying Scotsman,4000,3500,Edinburgh,London,"Friday, Saturday, Sunday"
+3,Golden Arrow,980,860,Victoria,Dover,"Monday, Tuesday, Wednesday"
+4,Golden Chariot,4300,3800,Bangalore,Goa,"Saturday, Sunday"
+5,Maharaja Express,5980,4510,Delhi,Mumbai,"Wednesday, Thursday, Friday"
