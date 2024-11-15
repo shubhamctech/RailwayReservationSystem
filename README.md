@@ -10,12 +10,12 @@ In this project for class CSE-3330 (Database Systems & File Structures), I have 
 ## Entity Relationship (ER) Diagram
 First, I Designed the database structure as shown in the ER diagram below:
 
-<img src="./public/ERDiagram.png" alt="ERDiagram" style="width: 70%" />
+<img src="./public/ERDiagram.png" alt="ERDiagram" style="width: 80%" />
 
 ## Database Implementation
 Then I created four interconnected tables (Train, Train_Status, Passenger, Booking) with appropriate constraints as shown:
 
-<img src="./public/RRSCreateTable.png" alt="Create Table Statements" style="width: 70%" />
+<img src="./public/RRSCreateTable.png" alt="Create Table Statements" style="width: 80%" />
 
 ## Data Loading Process
 - I modified the .csv files to address formatting issues:
@@ -30,8 +30,8 @@ I Implemented various SELECT statements for:
 - Train availability checks
 - Age-based filtering
 - Waitlist management
-<img src="./public/SQLqueries1.png" alt="SQL Queries 1-3" style="width: 70%" />
-<img src="./public/SQLqueries1.png" alt="SQL Queries 4-8" style="width: 70%" />
+<img src="./public/SQLqueries1.png" alt="SQL Queries 1-3" style="width: 80%" />
+<img src="./public/SQLqueries1.png" alt="SQL Queries 4-8" style="width: 80%" />
 
 ## Project Files
 - `RRS.sql`: Contains `CREATE TABLE` statements with constraints
