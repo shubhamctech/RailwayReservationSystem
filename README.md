@@ -31,7 +31,7 @@ I Implemented various SELECT statements for:
 - Age-based filtering
 - Waitlist management
 <img src="./public/SQLqueries1.png" alt="SQL Queries 1-3" style="width: 80%" />
-<img src="./public/SQLqueries1.png" alt="SQL Queries 4-8" style="width: 80%" />
+<img src="./public/SQLqueries2.png" alt="SQL Queries 4-8" style="width: 80%" />
 
 ## Project Files
 - `RRS.sql`: Contains `CREATE TABLE` statements with constraints
