@@ -42,7 +42,7 @@ I Implemented various SELECT statements for:
 If you have any questions or feedback related to this project, or if you just want to connect, feel free to reach out to me at:
 
 - **Email**: [shubhamcweb@gmail.com](mailto:shubhamcweb@gmail.com)
-- **LinkedIn**: [linkedin.com/in/shubhamcweb](https://linkedin.com/in/shubhamcweb)
+- **LinkedIn**: [linkedin.com/in/shubhamcweb](https://linkedin.com/in/shubhamctech)
 
 
 #### Thanks for visiting my project!
